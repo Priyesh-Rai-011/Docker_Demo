@@ -20,13 +20,14 @@ docker run -it -p 8080:8080 priyeshrai711/payment-controller-v4
 [DockerHub : priyeshrai711](<https://hub.docker.com/repository/docker/priyeshrai711/payment-controller-v4/general>)
 
 ###  Project Structure
+```
 Good_Questions/
 │
 ├── All_OOPS/
 │   └── PaymentController.java
 ├── Dockerfile
 └── README.md
-
+```
 ### 🐳 Dockerfile Used
 ```
 FROM openjdk:17
